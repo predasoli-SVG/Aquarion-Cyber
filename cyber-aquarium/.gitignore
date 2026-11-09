@@ -1,0 +1,4 @@
+node_modules/
+.openai/.source-*
+.DS_Store
+*.log
